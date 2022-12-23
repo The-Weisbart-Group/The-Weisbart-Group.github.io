@@ -10,4 +10,4 @@ menuorder: 1
 - Probability Theory
 - Non-Archimedean Analysis
 - Applied Category Theory & Open Systems
-- Quantum Theory
+
